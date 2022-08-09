@@ -330,7 +330,7 @@ img {
 .footer-item {
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
+   
 }
 
 .contacts-bottom-box {
@@ -377,6 +377,7 @@ img {
 
 .social {
     display: block;
+    margin-left: 70px;
 }
 
 .social-heder {
@@ -425,7 +426,7 @@ img {
 
 .subscription {
     width: 570px;
-
+    margin-left: 93px;
 }
 
 .subscription-heder {
@@ -633,11 +634,12 @@ img {
     letter-spacing: 0.03em;
     color: #212121;
 }
-
+.modal-form {
+    margin-top: 12px;
+}
 .form-item {
     display: block;
     text-align: left;
-    margin-top: 12px;
     margin-bottom: 30px;
 
 }
